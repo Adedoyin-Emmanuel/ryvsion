@@ -24,12 +24,12 @@ What do I understand about the problem and how do I solve it.
 **Challenge**: Provide live search, real-time stock updates, and a seamless user experience.
 **Solution**: Implement WebSockets or Server-Sent Events (SSE) for real-time communication between the client and server.
 
-Technology Stack Overview
-Backend: Node.js with Express.js
-Frontend: React with Next.js
-Database: MongoDB or PostgreSQL
-Real-Time Communication: WebSockets (using socket.io)
-Payment Integration: Stripe or PayPal API
+**Technology Stack Overview**
+**Backend**: Node.js with Express.js
+**Frontend**: React with Next.js
+**Database**: MongoDB or PostgreSQL
+**Real-Time Communicatio**n: WebSockets (using socket.io)
+**Payment Integration**: Stripe, PayPal API, Squad or Paystack
 
 ## Question 2
 
